@@ -1,7 +1,5 @@
 import Calculator from './components/Calculator';
 import '../src/components/Calculator.css'
-import image from '../src/img/ssonic.png'
-
 
 function App() {
   return (
