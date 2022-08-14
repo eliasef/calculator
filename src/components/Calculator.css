@@ -1,0 +1,19 @@
+.calculator {
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden; /*o que tiver além da calculator vai ser escondido */
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 60px;
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+.img {
+    width: 220px;
+}
