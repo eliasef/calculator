@@ -8,8 +8,6 @@ function App() {
     <div>
       <h1>Calculadora</h1>
       <Calculator />
-      <img className='img' src={image}></img>
-      
     </div>
   );
 }
